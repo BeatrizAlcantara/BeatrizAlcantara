@@ -21,8 +21,6 @@
 
 * I’m currently learning ... everything to reach my goal!
 
-* [More details and curiosities.](./profile/aboutme.md)
-
 <br>
 
 <hr>
