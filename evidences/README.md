@@ -1,7 +1,8 @@
 # Meus certificados
 
-## **2023**
+## **2022**
 
+:computer:[Curso Excel](./certificates/alura-excel-01.pdf) - Janeiro de 2022.
 
 ## **2021**
 
@@ -35,9 +36,9 @@
 
 :heart:[II Darwin Day](./certificates/DarwinDayII.pdf) - Fevereiro de 2019.
 
-:snake:[Curso de Python 3 - Mundo 01](./certificates/MundoPython.pdf) - Janeiro de 2019.
-
 ## **2018**
+
+:heart:[Curso Medicina Veterinária na FMVZ-USP](./certificates/diploma.png) - Janeiro de 2018.
 
 :microscope:[Congresso Brasileiro de Virologia - participação](./certificates/congresso-participacao.pdf) - Outubro de 2018.
 
