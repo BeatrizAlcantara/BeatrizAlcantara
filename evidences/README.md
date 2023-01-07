@@ -1,28 +1,15 @@
 # Meus certificados
 
-## **2022**
+## **2023**
 
-:computer:[Excel: Domine o editor de planilhas](./certificates/alura-excel-01.pdf) - Janeiro de 2022.
 
 ## **2021**
 
 :microscope:[Curso de Biossegurança da FIOCRUZ](./certificates/biosseg-fiocruz.pdf) - Dezembro de 2021.
 
-:computer:[Curso Linux I: Conhecendo e utilizando o terminal](./certificates/alura-linux1.pdf) - Dezembro de 2021.
-
-:panda_face:[Curso Pandas: Formatos diferentes de entrada e saída (IO)](./certificates/alura-pandasio.pdf) - Novembro de 2021.
-
-:computer:[Curso Data Visualization: Explorando com Seaborn](./certificates/alura-datavi1.pdf) - Novembro de 2021.
-
-:computer:[Curso Regressão Linear: Testando relações e prevendo resultados](./certificates/alura-regressao1.pdf) - Novembro de 2021.
-
 :ok_woman:[Curso Síndrome do Impostor](./certificates/alura-sindrome.pdf) - Novembro de 2021.
 
-:ok_woman:[Curso Transição de Carreira para a Tecnologia](./certificates/alura-transicao.pdf) - Novembro de 2021.
-
 :computer:[Curso Power BI](./certificates/alura-powerbi.pdf) - Novembro de 2021.
-
-:computer:[Curso Descubra o SQL](./certificates/descubra_SQL-2021.pdf) - Agosto de 2021.
 
 :computer:[Curso Introdução à Ciência de Dados](./certificates/intro_DS-2021.pdf) - Agosto de 2021.
 
@@ -32,19 +19,7 @@
 
 :sunflower::snake:[Curso de Biopython](./certificates/biopython-2021.pdf) - Agosto de 2021.
 
-:computer:[Bootcamp Data Science na Prática II](./certificates/bootcamp-neuron.pdf) - Agosto de 2021.
-
-:computer:[Curso Data Science: Primeiros Passos](./certificates/alura-data-science.pdf) - Julho de 2021.
-
-:computer::snake:[Curso Python para Data Science: Funções, pacotes e pandas](./certificates/python-data-science-1.pdf) - Julho de 2021.
-
-:computer:[Minicurso Fundamentos de Deep Learning](./certificates/parasito-deeplearning.pdf) - Abril de 2021.
-
-:computer::snake:[Curso Python para Data Science: Introdução à Linguagem e Numpy](./certificates/alura-py-datascience-002.pdf) - Abril de 2021.
-
 :microscope::sunflower:[Congresso Biotecnologia Brasil](./certificates/congresso-biotecnologia-2020.pdf) - Fevereiro de 2021.
-
-:computer::snake:[Curso Python para Data Science: Primeiros Passos](./certificates/alura-py-datascience-001.pdf) - Fevereiro de 2021.
 
 :rainbow:[Curso de Inglês - Influx / Escola de Idiomas](./certificates/influx.pdf) - 2019-2021
 
