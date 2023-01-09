@@ -18,9 +18,11 @@
 
 * Graduação: Medicina Veterinária <sup>1</sup> - [Universidade de São Paulo](http://portal.fmvz.usp.br/) - Período: 2013-2018.
 
+* Cursos livres: [Certificados](./evidences/README.md)
+
 * Pós-graduação: (em andamento) Vigilância Sanitária e Qualidade de Alimentos - [Descomplica-Uniamérica](https://descomplica.com.br/pos-graduacao/saude/pos-em-vigilancia-sanitaria-qualidade-de-alimentos/) - Período: 2023-2024.
 
-* Cursos livres: [Certificados](./evidences/README.md)
+* Pós-graduação: (em andamento) Microbiologia Avançada - [Descomplica-Uniamérica](https://descomplica.com.br/pos-graduacao/saude/pos-em-microbiologia-avancada/) - Período: 2023-2024.
 
 <br>
 
