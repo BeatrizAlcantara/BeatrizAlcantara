@@ -1,7 +1,7 @@
 <h1 align="center">Beatriz Alcântara</h1>
 
 <div align="center">
-<a href = "mailto:beatriz.alcantara.leite@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a>
+<a href = "mailto:alcantaral.beatriz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/beatriz-alcantara-8a750b159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=flat&logo=linkedin"></a>
 <a href="http://lattes.cnpq.br/4030442243713832" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Lattes&color=%23333"></a>
 
@@ -16,11 +16,11 @@
 
 <h2>Formação</h2>
 
+* Graduação: (em andamento) Farmácia - [UniAnchieta](https://anchieta.br/presencial/farmacia/) - Período: 2024-2028.
+
 * Graduação: Medicina Veterinária <sup>1</sup> - [Universidade de São Paulo](http://portal.fmvz.usp.br/) - Período: 2013-2018.
 
 * Cursos livres: [Certificados](./evidences/README.md)
-
-* Pós-graduação: (em andamento) Microbiologia Avançada - [Descomplica-Uniamérica](https://descomplica.com.br/pos-graduacao/saude/pos-em-microbiologia-avancada/) - Período: 2023-2024.
 
 <br>
 
