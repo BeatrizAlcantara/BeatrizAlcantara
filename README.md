@@ -16,7 +16,7 @@
 
 <h2>Formação</h2>
 
-* Graduação: (em andamento) Farmácia - [UniAnchieta](https://anchieta.br/presencial/farmacia/) - Período: 2024-2028.
+* Graduação: Farmácia - [UniAnchieta](https://anchieta.br/presencial/farmacia/) - Período: 2024-2028.
 
 * Graduação: Medicina Veterinária - [Universidade de São Paulo](http://portal.fmvz.usp.br/) - Período: 2013-2018.
 
