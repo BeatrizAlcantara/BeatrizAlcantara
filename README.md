@@ -18,13 +18,21 @@
 
 * Graduação: (em andamento) Farmácia - [UniAnchieta](https://anchieta.br/presencial/farmacia/) - Período: 2024-2028.
 
-* Graduação: Medicina Veterinária <sup>1</sup> - [Universidade de São Paulo](http://portal.fmvz.usp.br/) - Período: 2013-2018.
+* Graduação: Medicina Veterinária - [Universidade de São Paulo](http://portal.fmvz.usp.br/) - Período: 2013-2018.
+
+* Curso profissionalizante: Auxiliar de Laboratório de Análises Clínicas - [Projeta Cursos](https://www.projetacursos.com.br/curso/auxiliar-de-laboratorio-de-analises-clinicas-) - Período: 2024. Carga horária: 84h.
 
 * Cursos livres: [Certificados](./evidences/README.md)
 
 <br>
 
-<h2>Atividades e Atuação profissional</h2>
+<h2>Atuação profissional</h2>
+
+* Trabalhei como Assistente de Laboratório no setor de análises Bromatológicas na [MCassab Nutrição e Sáude Animal](https://www.mcassab.com.br/nutricao-e-saude-animal/) em fevereiro de 2022.
+
+<br>
+
+<h2>Atividades</h2>
 
 * Durante o curso de veterinária fiz duas iniciações científicas (com duração de 1 ano cada e bolsa) - uma com Neonatos caninos e outra com Coronavírus aviário.
 
@@ -32,4 +40,8 @@
 
 * Duas publicações: [artigo1](https://www.revistas.usp.br/bjvras/article/view/166086/161852) ; [artigo2](https://www.scielo.br/j/gmb/a/mW6TWPVYBr6hKwrrGcfXF4n/?lang=en).
 
-* Trabalhei como Assistente de Laboratório no setor de análises Bromatológicas na [MCassab Nutrição e Sáude Animal](https://www.mcassab.com.br/nutricao-e-saude-animal/) em fevereiro de 2022.
+<br>
+
+<h2>Fofocas Extras</h2>
+
+* [Explicações](./fofocas.md)
