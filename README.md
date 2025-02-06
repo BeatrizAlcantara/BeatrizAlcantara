@@ -40,8 +40,3 @@
 
 * Duas publicações: [artigo1](https://www.revistas.usp.br/bjvras/article/view/166086/161852) ; [artigo2](https://www.scielo.br/j/gmb/a/mW6TWPVYBr6hKwrrGcfXF4n/?lang=en).
 
-<br>
-
-<h2>Fofocas Extras</h2>
-
-* [Explicações](./fofocas.md)
